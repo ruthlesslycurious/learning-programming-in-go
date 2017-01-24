@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("hello, world from go\n")
+	fmt.Printf("hello, world from go - trial from git-web\n")
 }
